@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(9, 9, 63);
+    width: fit-content;
+}
+
+img{
+    width: 40%;
+}
+
+main{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    background-color: rgb(19, 15, 73);
+}
+
